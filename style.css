@@ -1,0 +1,8 @@
+.conteiner {
+    display: flex;
+}
+
+.myphoto {
+    width: 250px;
+    height: 250px;
+}
